@@ -1,0 +1,15 @@
+{
+  "name": "Smart Annotation",
+  "id": "1292816108919529025",
+  "api": "1.0.0",
+  "main": "dist/index.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": ["figma"],
+  "containsWidget": true,
+  "widgetApi": "1.0.0",
+  "permissions": ["currentuser"],
+  "networkAccess": {
+    "allowedDomains": ["https://s3-alpha.figma.com"]
+  }
+}
